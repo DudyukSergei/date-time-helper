@@ -13,5 +13,7 @@
             "email": "imesergei@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.3"
+    }
 }
