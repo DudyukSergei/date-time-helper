@@ -1,0 +1,17 @@
+{
+    "name": "dudyuk-sergei/date-time-helper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DudyukSergei\\DateTimeHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergei Dudyu",
+            "email": "imesergei@gmail.com"
+        }
+    ],
+    "require": {}
+}
